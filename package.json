@@ -1,0 +1,32 @@
+{
+  "name": "conFusion",
+  "version": "1.0.0",
+  "description": "this is just beginning",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utilmen/conFusion.git"
+  },
+  "keywords": [
+    "noob"
+  ],
+  "author": "Jawla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utilmen/conFusion/issues"
+  },
+  "homepage": "https://github.com/utilmen/conFusion#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
